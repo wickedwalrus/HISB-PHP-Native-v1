@@ -1,1 +1,1 @@
-# HISB-PHP-Native-v1
+Simple API to frontend integration using cURL in PHP.
